@@ -1,0 +1,15 @@
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.csproj.AssemblyReference.cache
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.AssemblyInfoInputs.cache
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.AssemblyInfo.cs
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.csproj.CoreCompileInputs.cache
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\bin\Debug\net6.0\Billab1.5.exe
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\bin\Debug\net6.0\Billab1.5.deps.json
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\bin\Debug\net6.0\Billab1.5.runtimeconfig.json
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\bin\Debug\net6.0\Billab1.5.dll
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\bin\Debug\net6.0\Billab1.5.pdb
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.dll
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\refint\Billab1.5.dll
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.pdb
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\Billab1.5.genruntimeconfig.cache
+C:\Users\ssahin\Documents\repos\KOU-2021-2022-BilLab-CSharp\Billab1.5\Billab1.5\obj\Debug\net6.0\ref\Billab1.5.dll
